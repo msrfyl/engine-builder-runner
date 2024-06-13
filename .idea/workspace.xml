@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d35c44a4-da12-4c5e-8463-e2ca9ecbb704" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Call Partner/cpx/config/setting.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Call Partner/cpx/src/main/kotlin/co/id/datacomsolusindo/cpx/EventListeners.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Call Partner/cpx/src/main/kotlin/co/id/datacomsolusindo/cpx/config/Config.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Call Partner/cpx/src/main/kotlin/co/id/datacomsolusindo/cpx/config/Interceptor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Call Partner/cpx/src/main/kotlin/co/id/datacomsolusindo/cpx/entity/AreaPrefix.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Call Partner/cpx/src/main/kotlin/co/id/datacomsolusindo/cpx/entity/BasicRestEntity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Call Partner/cpx/src/main/kotlin/co/id/datacomsolusindo/cpx/entity/Dummy.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Call Partner/cpx/src/main/kotlin/co/id/datacomsolusindo/cpx/entity/Rate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Call Partner/cpx/src/main/kotlin/co/id/datacomsolusindo/cpx/formula/Formula.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Call Partner/cpx/src/main/kotlin/co/id/datacomsolusindo/cpx/general/General.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Call Partner/cpx/src/main/kotlin/co/id/datacomsolusindo/cpx/utility/Cache.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Call Partner/cpx/src/main/kotlin/co/id/datacomsolusindo/cpx/utility/Utility.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/additional-setting.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/setting.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ConfigRunner.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/U.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PropInspector/pilicense/conf/general.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PropInspector/pilicense/src/main/kotlin/co/id/datacomsolusindo/pilicense/License.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PropInspector/pilicense/src/main/kotlin/co/id/datacomsolusindo/pilicense/U.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PropInspector/pilicense/src/main/kotlin/co/id/datacomsolusindo/pilicense/socket/Config.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PropInspector/pilicense/src/main/kotlin/co/id/datacomsolusindo/pilicense/socket/Controller.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Resource Server/resource/src/main/kotlin/co/msrfyl/resource/EventListeners.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Resource Server/resource/src/main/kotlin/co/msrfyl/resource/configuration/Configuration.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Resource Server/resource/src/main/kotlin/co/msrfyl/resource/configuration/FilterAccess.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Resource Server/resource/src/main/kotlin/co/msrfyl/resource/entity/Base.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Resource Server/resource/src/main/kotlin/co/msrfyl/resource/entity/WebUser.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Resource Server/resource/src/main/kotlin/co/msrfyl/resource/general/General.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Resource Server/resource/src/main/kotlin/co/msrfyl/resource/general/ResponseHandler.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Resource Server/resource/src/main/kotlin/co/msrfyl/resource/general/UniversalRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Resource Server/resource/src/main/kotlin/co/msrfyl/resource/security/Configuration.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Resource Server/resource/src/main/kotlin/co/msrfyl/resource/security/UserRole.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Resource Server/resource/src/main/kotlin/co/msrfyl/resource/utility/Utility.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ruang Kerja/ruangkerja/src/main/kotlin/co/id/msrfyl/ruangkerja/EventListeners.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ruang Kerja/ruangkerja/src/main/kotlin/co/id/msrfyl/ruangkerja/entity/BasicRestEntity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ruang Kerja/ruangkerja/src/main/kotlin/co/id/msrfyl/ruangkerja/entity/Unit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ruang Kerja/ruangkerja/src/main/kotlin/co/id/msrfyl/ruangkerja/entity/WebUser.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ruang Kerja/ruangkerja/src/main/kotlin/co/id/msrfyl/ruangkerja/general/Handler.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ruang Kerja/ruangkerja/src/main/kotlin/co/id/msrfyl/ruangkerja/general/UserRole.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ruang Kerja/ruangkerja/src/main/kotlin/co/id/msrfyl/ruangkerja/utility/U.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WhatsApp/nodejs/node_modules/npm/node_modules/clone/clone.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2hoWlp1GNzj9FFtDPnJSsKnaWim" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Project/Engine/configuration-builder/configbuilder/conf"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Engine\configuration-builder\configbuilder\conf" />
+      <recent name="D:\Project\Engine\configuration-builder\configbuilder" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="configbuilder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d35c44a4-da12-4c5e-8463-e2ca9ecbb704" name="Changes" comment="" />
+      <created>1718261066708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718261066708</updated>
+    </task>
+    <servers />
+  </component>
+</project>

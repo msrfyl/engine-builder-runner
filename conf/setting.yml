@@ -1,0 +1,29 @@
+server:
+  port: "8081"
+database:
+  host: "127.0.0.1"
+  port: "3306"
+  name: "msrfyl"
+  username: "msrfyl"
+  password: "msrfyl"
+  type: "mysql"
+  showSql: false
+  openInView: false
+  formatSql: true
+  ddlAuto: "update"
+email:
+  host: "in-v3.mailjet.com"
+  port: "465"
+  username: "1513ff5169330d60621d409875d75014"
+  password: "8b6f2cee1e2c60f6a89a814a92adcd4d"
+  protocol: "smtp"
+  debug: false
+  starttls: true
+  starttls-ssl: false
+logging:
+  root: "INFO"
+  path: "logs/resource/resource.log"
+  pattern: "%d{yyyy-MM-dd}.%i"
+  maxFileSize: "1MB"
+  totalSizeCap: "1MB"
+

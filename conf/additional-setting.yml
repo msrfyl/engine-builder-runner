@@ -1,0 +1,17 @@
+server:
+  compression:
+    enabled: true
+    excluded-user-agents:
+    mime-types: text/html,text/xml,text/plain,text/css,text/javascript,application/javascript,application/json,image/jpeg,image/png
+    min-response-size: 2048
+spring:
+  data:
+    rest:
+      base-path: /api
+  datasource:
+    hikari:
+      minimumIdle: 2
+      maximumPoolSize: 20
+      idleTimeout: 120000
+      connectionTimeout: 300000
+      leakDetectionThreshold: 300000
